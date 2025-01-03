@@ -1,3 +1,7 @@
 # Garden-website
 How your garden must appear
-<img src="https://github.com/kaddusereve/Garden%20website/blob/main/garden.jpg?raw=true" alt="Garden for greens" width="400" height="200">
+# Welcome to My Garden Project
+
+Here's an image of my beautiful garden:
+
+![Garden for greens](https://github.com/kaddusereve/Garden-website/blob/main/garden.jpg?raw=true)
